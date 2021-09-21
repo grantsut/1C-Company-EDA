@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.docx
+*.tmp
+top-1-notebook-advanced-features-and-lightgbm.ipynb
+top-1-notebook-advanced-features-and-lightgbm.ipynb
+top-1-notebook-advanced-features-and-lightgbm.ipynb
