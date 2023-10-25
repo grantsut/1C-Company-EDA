@@ -1,4 +1,4 @@
 # 1C Company EDA
  Example EDA of sales data from the Russian retail and publishing company 1C.
 
-The main analysis is a Jupyter notebook best viewed [here on nbviewer.org](https://nbviewer.org/github/grantsut/1C-Company-EDA/blob/3c039ad0608e9c9817711338b24121ef89ca7363/EDA-1C-Company.ipynb).
+This was mainly preparation for a public notebook for a forecasting competition on Kaggle, [viewable here](https://www.kaggle.com/code/deinforcement/top-1-predict-future-sales-features-lightgbm). This was the notebook with the highest accuracy when it was created, other notebooks have since improved upon it.
